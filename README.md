@@ -1,6 +1,6 @@
-# Oracle-10g-Softwares
+# Oracle Form and report builder -- oracle 10g
 
 ## Here you can find : 
-> Oracle 10g software including Database and developer suite
+> all resources you will need to setup your environment (Tutorial included in arabic)
 
-Link to the drive : [Oracle 10g Softwares](https://drive.google.com/drive/folders/1BcB_h_aZDQy-A0LU2AmF79pc8nc-xpXS )
+Link to the drive : [Oracle 10g form and report builder](https://drive.google.com/drive/u/1/folders/1uqykG3yQaQZhF_GxzIuyMzGYmjkZ_3q4 )
